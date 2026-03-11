@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data analysis and visualization projects with Python.**
 
-- 🌱 I’m currently learning **I'm currently learning Python (Pandas, Scikit-learn), SQL and Data Visualization.**
+- 🌱 I’m currently learning **Python (Pandas, Scikit-learn), SQL and Data Visualization.**
 
 - 💬 Ask me about **Data cleaning, Python basics, and data storytelling**
 
