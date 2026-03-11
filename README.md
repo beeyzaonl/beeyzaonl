@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Beyzanur</h1>
 <h3 align="center">A goal-oriented student pursuing Data Science from Turkey</h3>
 
-- 🔭 I’m currently working on **Data analysis and visualization projects with Python.**
+- 🔭 I’m currently working on **Developing end-to-end Exploratory Data Analysis (EDA) projects**
 
-- 🌱 I’m currently learning **Python (Pandas, Scikit-learn), SQL and Data Visualization.**
+- 🌱 I’m currently learning **Machine Learning fundamentals and advanced SQL queries**
 
-- 💬 Ask me about **Data cleaning, Python basics, and data storytelling**
+- 💬 Ask me about **Data storytelling, cleaning messy datasets, and Python automation**
 
 - 📫 How to reach me **onalbeyzanur78@gmail.com**
 
